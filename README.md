@@ -2,12 +2,12 @@
 Introduction to building your own Blockchain based Cryptocurrency in JavaScript
 
 
-Some confuse the terminology 'Blockchain' with 'Cryptocurrency' because usually media draws no distinction between them.
+Some confuse the terminology `Blockchain` with `Cryptocurrency` because usually media draws no distinction between them.
 Blockchain in itself is a really simple concept.
 If you learned basic CS, you will understand that blockchain is no more than just a linked list with a hashmap.
 Of course, cryptocurrency is complicated, but it is not due to blockchain.
 Blockchain is just one of the many components why cryptocurrency became so powerful.
-So we are going to cover the other major elements that make cryptocurrency work.
+Therefore we are also going to cover the other major elements that make cryptocurrency work.
 
 We are going to build a mini-cryptocurrency with minimal code.
 
@@ -19,34 +19,31 @@ After you read this article, you will:
 
 ## Table of Contents
 
-- Introduction (10)
+- [Introduction](0-introduction)
   - People suck
   - Decentralization is the Future
   - Properties of Currency
   - Properties of Digital Currency
   - Crypto Coins
   - JavaScript for Cryptocurrency
-- Money On The Internet
-- Decentralized Money
+- [Money On The Internet](1-money-on-the-internet)
+- [Decentralized Money](2-decentralized-money)
   - Gossip Protocol
-- Cryptographic Identities
+- [Cryptographic Identities](3-cryptographic-identities)
   - Hashing
-- Basic Blockchain
+- [Basic Blockchain](4-basic-blockchain)
   - Double Spending Problem
   - Proof of Work and Mining
-- Merkle Trees
-- Other Consensus Algorithms
+- [Consensus Algorithms](6-consensus-algorithms)
   - Proof of Stake
   - IOTA
-- Cryptoeconomics
-- Computer On Top Of Blockchain
+- [Hashgraph](hashgraph)
+- [Cryptoeconomics](7-cryptoeconomics)
+- [Merkle Trees](5-merkle-trees)
+- [Simplified Payment Verification](simplified-payment-verification)
+- [Replay Protection](replay-protection)
+- [Computer On Top Of Blockchain](8-computer-on-top-of-blockchain)
 
-
-## TODO
-
-* SPVs (light clients)
-* Replay protection
-* Ethereum (VM on Blockchain)
 
 ## References
 
