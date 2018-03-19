@@ -17,6 +17,8 @@ After you read this article, you will:
 * Understand major elements that go into cryptocurrency technology
 * Implement your own cryptocurrency with proof-of-stake algorithm
 
+> Note: the curriculum has been largely influenced by Haseeb Qureshi's [Let's Build a Blockchain Lecture](https://www.youtube.com/watch?v=3aJI1ABdjQk&t=7207s) under his permission.
+
 ## Table of Contents
 
 - [Introduction](0-introduction)
@@ -26,12 +28,13 @@ After you read this article, you will:
   - Properties of Digital Currency
   - Crypto Coins
   - JavaScript for Cryptocurrency
+  - Basic Networks with JavaScript
 - [Money On The Internet](1-money-on-the-internet)
 - [Decentralized Money](2-decentralized-money)
   - Gossip Protocol
 - [Cryptographic Identities](3-cryptographic-identities)
   - Hashing
-- [Basic Blockchain](4-basic-blockchain)
+- [Blockchain](4-blockchain)
   - Double Spending Problem
   - Proof of Work and Mining
 - [Consensus Algorithms](6-consensus-algorithms)
@@ -43,12 +46,13 @@ After you read this article, you will:
 - [Simplified Payment Verification](simplified-payment-verification)
 - [Replay Protection](replay-protection)
 - [Computer On Top Of Blockchain](8-computer-on-top-of-blockchain)
+- [Decentralized Applications](8-dapp)
 
 
 ## References
 
 * Let's Build a Blockchain — A mini-cryptocurrency in Ruby by Haseeb Qureshi [`Slides`](https://speakerdeck.com/haseebq/lets-build-a-blockchain-a-mini-cryptocurrency-in-ruby) [`Code`](https://github.com/Haseeb-Qureshi/lets-build-a-blockchain)
-* Creating a blockchain with Javascript [`Video`](https://www.youtube.com/watch?v=zVqczFZr124)
+* Creating a blockchain with Javascript [`Video`](https://www.youtube.com/watch?v=zVqczFZr124) [`Code`](https://github.com/SavjeeTutorials/SavjeeCoin)
 * Learn Blockchains by Building One by Daniel van Flymen [`Article`](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 * Build Your Own Blockchain: A Python Tutorial [`Article`](http://ecomunsing.com/build-your-own-blockchain)
 * g-coin by golbin [`Code`](https://github.com/golbin/g-coin)
