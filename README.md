@@ -1,6 +1,7 @@
-# From Digital Money To Blockchain and Cryptocurrency
-Introduction to building your own Blockchain based Cryptocurrency in JavaScript
+# [WIP] From Digital Money To Blockchain and Cryptocurrency
+Introduction To Building Blockchain Based Cryptocurrency In JavaScript
 
+**[WORK IN PROGRESS]**
 
 Some confuse the terminology `Blockchain` with `Cryptocurrency` because usually media draws no distinction between them.
 Blockchain in itself is a really simple concept.
@@ -21,7 +22,7 @@ After you read this article, you will:
 
 ## Table of Contents
 
-- [Introduction](0-introduction)
+- [Introduction](00-introduction)
   - People suck
   - Decentralization is the Future
   - Properties of Currency
@@ -29,24 +30,27 @@ After you read this article, you will:
   - Crypto Coins
   - JavaScript for Cryptocurrency
   - Basic Networks with JavaScript
-- [Money On The Internet](1-money-on-the-internet)
-- [Decentralized Money](2-decentralized-money)
+- [Money On The Internet](01-money-on-the-internet)
+  - Client and Server
+  - Client Implementation
+  - Server Implementation
+- [Decentralized Money](02-decentralized-money)
   - Gossip Protocol
-- [Cryptographic Identities](3-cryptographic-identities)
+- [Cryptographic Identities](03-cryptographic-identities)
   - Hashing
-- [Blockchain](4-blockchain)
+- [Blockchain](04-blockchain)
   - Double Spending Problem
+- [Consensus Algorithms](05-consensus-algorithms)
   - Proof of Work and Mining
-- [Consensus Algorithms](6-consensus-algorithms)
   - Proof of Stake
   - IOTA
-- [Hashgraph](hashgraph)
-- [Cryptoeconomics](7-cryptoeconomics)
-- [Merkle Trees](5-merkle-trees)
-- [Simplified Payment Verification](simplified-payment-verification)
-- [Replay Protection](replay-protection)
-- [Computer On Top Of Blockchain](8-computer-on-top-of-blockchain)
-- [Decentralized Applications](8-dapp)
+- [Merkle Trees](06-merkle-trees)
+- [Simplified Payment Verification](07-simplified-payment-verification)
+- [Replay Protection](08-replay-protection)
+- [Hashgraph](09-hashgraph)
+- [Computer On Top Of Blockchain](10-computer-on-top-of-blockchain)
+- [Decentralized Applications](11-dapp)
+- [Cryptoeconomics](12-cryptoeconomics)
 
 
 ## References
