@@ -1,4 +1,9 @@
-# [WIP] From Digital Money To Blockchain and Cryptocurrency
+# From Digital Money To Blockchain and Cryptocurrency
+
+<p align="center">
+  <img src ="./assets/blockchain.png" />
+</p>
+
 Introduction To Building Blockchain Based Cryptocurrency In JavaScript
 
 **[WORK IN PROGRESS]**
