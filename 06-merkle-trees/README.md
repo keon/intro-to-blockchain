@@ -4,6 +4,12 @@ Merkle Trees are used throughout various peer-to-peer (P2P) applications. Major 
  are one of the fundamental building blocks of cryptocurrency.
 Bitcoin and Ethereum also utilize it.
 
+
+<p align="center">
+  <img src ="./assets/merkletree.png" />
+</p>
+
+
 ## References
 
 * BitTorrent: Merkle hash torrent extension [Paper](http://bittorrent.org/beps/bep_0030.html)

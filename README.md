@@ -23,8 +23,6 @@ After you read this article, you will:
 * Understand major elements that go into cryptocurrency technology
 * Implement your own cryptocurrency with proof-of-stake algorithm
 
-> Note: the curriculum has been largely influenced by Haseeb Qureshi's [Let's Build a Blockchain Lecture](https://www.youtube.com/watch?v=3aJI1ABdjQk&t=7207s) under his permission.
-
 ## Table of Contents
 
 - [Introduction](00-introduction)
@@ -65,3 +63,5 @@ After you read this article, you will:
 * Learn Blockchains by Building One by Daniel van Flymen [`Article`](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 * Build Your Own Blockchain: A Python Tutorial [`Article`](http://ecomunsing.com/build-your-own-blockchain)
 * g-coin by golbin [`Code`](https://github.com/golbin/g-coin)
+
+> Note: the curriculum has been largely influenced by Haseeb Qureshi's [Let's Build a Blockchain Lecture](https://www.youtube.com/watch?v=3aJI1ABdjQk&t=7207s) under his permission.
